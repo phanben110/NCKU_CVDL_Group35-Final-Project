@@ -1,0 +1,11 @@
+opencv-contrib-python
+opencv-python
+torch
+torchvision
+torch-summary
+tensorboard
+streamlit
+streamlit_option_menu
+matplotlib
+seaborn
+sklearn
